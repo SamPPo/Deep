@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Projects/UnrealProjects/Deep/Deep/Content/Player/Blob.uasset",
+				"C:/Projects/UnrealProjects/Deep/Deep/Content/Inventory/ToolBelt.uasset",
+				"C:/Projects/UnrealProjects/Deep/Deep/Content/Player/PlayerPawn_Deep.uasset",
+				"C:/Projects/UnrealProjects/Deep/Deep/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YH/2D4DPZBLPQ6BS5DORH8FH2.uasset",
+				"C:/Projects/UnrealProjects/Deep/Deep/Content/Player/Input/Crouch_IA.uasset",
+				"C:/Projects/UnrealProjects/Deep/Deep/Content/Player/Input/Interaction_IMC.uasset",
 				"D:/UnrealProjects/Deep/Deep/Content/Proto/TestSalvage.uasset",
 				"D:/UnrealProjects/Deep/Deep/Content/Proto/Panel.uasset",
 				"D:/UnrealProjects/Deep/Deep/Content/Proto/Mutter.uasset",

@@ -1,0 +1,4 @@
+TODO:
+
+swimming + jump -> upwards swimming
+adjsut gravity and damping values in swimming to feel better
