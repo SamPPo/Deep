@@ -1,0 +1,28 @@
+SCREWDIVER
+TODO:::
+
+-continue with harpoon gun
+  -how to deal with combined components things as whole?
+  -harpoon gun, barrel attached etc.
+-continue item component and action component refactor
+
+welding maybe bit unfinished?
+
+interactiontype_specifier1_specifier2
+
+continue with mussel growth
+
+https://www.youtube.com/watch?v=c2MH20OPSw0
+
+tonemap sharpen
+abtest *variable* x y
+
+make mussels pickable
+
+scdw = scrwedriver
+wldg = weldinggun
+wlds = weldingstick
+cleg = cleaninggun
+
+equipable meshes need to be non-nanite to enable first person view
+-problem? If everything is supposed to be equippable
